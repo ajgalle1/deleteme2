@@ -1,0 +1,6 @@
+@deleteme_HostAddress = http://localhost:5008
+
+GET {{deleteme_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
